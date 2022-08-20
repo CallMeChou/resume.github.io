@@ -7,8 +7,8 @@ position: 金融、人力资源、管理、数据分析
 phone: 15680075115
 email: zhou@jiyuan.enail.cn
 
-baseurl: "/resume.io"
-
+# baseurl: "/resume.io"
+baseurl: https://callmechou.github.io/resume.github.io/
 permalink: /:year/:month/:day/:title/
 
 exclude: ['README.md']
