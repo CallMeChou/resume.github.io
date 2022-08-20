@@ -4,9 +4,11 @@ location: 四川成都
 position: Java开发工程师
 phone: 15680075115
 email: zhou@jiyuan.email.cn
-baseurl: "/resume.io"
+baseurl: "/resume.github.io"
 permalink: /:year/:month/:day/:title/
 exclude: ['README.md']
 # Build settings
 markdown: kramdown
+root: /resume.github.io/
+
 
