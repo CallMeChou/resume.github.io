@@ -12,7 +12,8 @@ baseurl: https://callmechou.github.io/resume.github.io/
 permalink: /:year/:month/:day/:title/
 
 exclude: ['README.md']
-
+source: "https://rubygems.org"
+gem: 'github-pages'
 # Build settings
 markdown: kramdown
 
